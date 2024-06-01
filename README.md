@@ -1,0 +1,2 @@
+# lokalTun
+ngrok tunnel ip
