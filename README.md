@@ -1,2 +1,2 @@
 # lokalTun
-ngrok tunnel ip
+ngrok tunnel ip lokal mikrotik menjadi publik
